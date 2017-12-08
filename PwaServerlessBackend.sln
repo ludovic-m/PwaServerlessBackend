@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PwaServerlessBackend", "PwaServerlessBackend\PwaServerlessBackend.csproj", "{59572851-8E9D-4559-8943-337D8FBE4E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59572851-8E9D-4559-8943-337D8FBE4E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59572851-8E9D-4559-8943-337D8FBE4E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59572851-8E9D-4559-8943-337D8FBE4E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59572851-8E9D-4559-8943-337D8FBE4E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F7A82B7-7543-4D35-88A2-31FFE8DB3C1C}
+	EndGlobalSection
+EndGlobal
